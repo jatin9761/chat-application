@@ -5,6 +5,7 @@ export default function Right() {
     <div className=' w-3/4 h-screen  bg-blue-900 text-black'>
       Right
       
+      
     </div>
   )
 }
