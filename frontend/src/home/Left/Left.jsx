@@ -6,7 +6,7 @@ import Users from "./Users";
 
 export default function left() {
   return (
-    <div className=' w-1/4 h-screen bg-green-700 text-white'> 
+    <div className=' w-1/4 h-screen bg-black text-white'> 
 
     <h1 className="font-bold text-4xl p-2 px-12">  Chats</h1>
     
