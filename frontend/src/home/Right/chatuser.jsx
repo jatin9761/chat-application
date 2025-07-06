@@ -3,7 +3,7 @@ import React from 'react'
 function chatuser() {
   return (
     <>
-    <div className=' pl-5 pt-5 pb-3 flex space-x-4 p-4 items-center bg-black hover:bg-gray-800 duration-300 rounded-lg'> 
+    <div className=' pl-5 pt-5 pb-3  h-[8vh] flex space-x-4 p-4 items-center bg-gray-700 hover:bg-gray-800 duration-300 rounded-lg'> 
         <div>
       <div className="avatar avatar-online">
         <div className="w-13 rounded-full">
