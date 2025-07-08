@@ -2,17 +2,18 @@ import React from "react";
 
 function Message() {
   return (
-    <div className="flex-grow p-4 space-y-3 overflow-y-auto">
-      <div className="chat chat-start">
-        <div className="chat-bubble bg-pink-400 text-black">hii !</div>
+    <>
+      <div className="flex items-center justify-start my-2">
+        <div className="bg-blue-700 text-white p-3 rounded-lg max-w-xs">
+          <p>Hello, how are you?</p>
+        </div>
       </div>
-      <div className="chat chat-end">
-        <div className="chat-bubble bg-sky-300 text-black">kon ?</div>
+      <div className="flex items-center justify-end my-2">
+        <div className="bg-green-500 text-white p-3 rounded-lg max-w-xs">
+          <p>I'm fine, thank you!</p>
+        </div>
       </div>
-      <div className="chat chat-end">
-        <div className="chat-bubble bg-sky-400 text-black">aap ka dost</div>
-      </div>
-    </div>
+    </>
   );
 }
 

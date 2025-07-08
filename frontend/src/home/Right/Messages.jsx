@@ -4,7 +4,35 @@ import Message from './message'
 function messages() {
   return (
     <>
-    <div className=''style={{minheight:"calc(92vh - 8vh)"}}>
+    <div className=''style={{minheight:"calc(100vh - 8vh)"}}>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message> 
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
+    <Message></Message>
     <Message></Message>
     </div>
     
