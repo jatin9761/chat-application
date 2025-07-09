@@ -6,7 +6,7 @@ import Type from './type'
 
 export default function Right() {
   return (
-    <div className=' w-3/4 h-screen  bg-slate-500 text-white flex flex-col justify-between'>
+    <div className=' w-3/3 h-screen  bg-slate-500 text-white flex flex-col justify-between'>
       
       <Chatuser></Chatuser>
       <div 
