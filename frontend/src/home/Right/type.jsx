@@ -12,8 +12,8 @@ function type() {
             className="border-[1px] border border-gray-700 bg-gray-600 flex items-center w-full py-5 px-5 rounded-xl grow outline-none mt-1  hover:bg-gray-700 "
           />
         </div>
-        <button className="text-2xl mt-1 px-10  hover:bg-gray-700 rounded-full duration-300 " >
-          <VscSend   />
+        <button className="text-2xl mt-1 px-10  hover:bg-gray-700 rounded-full duration-300 ">
+          <VscSend />
         </button>
       </div>
     </>
