@@ -15,7 +15,7 @@ function chatuser() {
         <div>
           <h1 className="text-xl font-bold text-white">
             jatin sharma
-            <span className="text-gray-200 "> </span>
+            <span className="text-gray-199 "> </span>
           </h1>
           <span>online</span>
         </div>
